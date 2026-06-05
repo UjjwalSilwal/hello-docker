@@ -23,3 +23,4 @@ docker run hello-docker
 # pull the image from docker
 
 -> docker pull codewithmosh/hello-docker
+-> docker image ls -- the repository should be codewithmosh/hello-docker
